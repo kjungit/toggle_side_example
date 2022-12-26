@@ -1,4 +1,3 @@
-// do something!
 let toggleBtn = document.querySelector(".toggle");
 let toggleArea = document.querySelector("nav");
 let togglePre = document.querySelector("body");
